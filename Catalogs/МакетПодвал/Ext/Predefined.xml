@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="9d0366ff-bf95-401f-b437-a9bed1e54443">
+		<Name>Актуальность3Дня</Name>
+		<Code>000000003</Code>
+		<Description>Актуальность3 дня</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="c72dcde5-251b-4186-8735-9894a0a75655">
+		<Name>ДополнительныеДоработкиЗаОтдельнуюПлату</Name>
+		<Code>000000002</Code>
+		<Description>Дополнительные доработки</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="214b1017-0c67-4b5a-a5cc-4d605bebc9f7">
+		<Name>ПодсчетыПредварительные</Name>
+		<Code>000000001</Code>
+		<Description>Подсчеты предварительные</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
